@@ -1,0 +1,3 @@
+[submodule "RAG_Pipeline"]
+	path = RAG_Pipeline
+	url = https://github.com/CTUStudyMate/RAG_Pipeline.git
