@@ -1,6 +1,6 @@
 [submodule "RAG_Pipeline"]
 	path = RAG_Pipeline
 	url = https://github.com/CTUStudyMate/RAG_Pipeline.git
-[submodule "rag_eval"]
-	path = rag_eval
+[submodule "RAG_Pipeline_Evaluation"]
+	path = RAG_Pipeline_Evaluation
 	url = https://github.com/CTUStudyMate/RAG-Pipeline-Evaluation.git
